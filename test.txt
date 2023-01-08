@@ -1,0 +1,18 @@
+What is the extension of header file in C??
+.h
+.header
+.head
+.Cheader
+1
+What is return type of printf
+void
+char
+float
+int
+4
+What is the extension of C code??
+.c
+.cpp
+.ccode
+.cc
+1
